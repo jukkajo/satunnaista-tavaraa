@@ -3,6 +3,11 @@ import random
 import string
 import timeit
 
+class varit:
+    SINI = '\033[96m'
+    KELT = '\033[93m'
+    ENDC = '\033[0m'
+
 mjono1 = ""
 mjono2 = ""
 #ascii:ta ja numeroita
@@ -10,7 +15,7 @@ for i in range(50):
     mjono1=mjono1 + random.choice(string.ascii_letters + string.digits)
     mjono2=mjono2 + random.choice(string.ascii_letters + string.digits)
     
-print("Jonot, joita vertaillaan:\n", mjono1, "\n", mjono2)
+print("Jonot, joita vertaillaan:\n\n", mjono1, "\n", mjono2, "\n")
 
 #pass = setup details
 # vakio -> timer
@@ -20,7 +25,7 @@ iteraatiot = 1
 raja = 1000000
 #aikasama, aikaeri, iteraatiot
 #:float    :float   :int -> dec-integer->d
-listaus_formaatti = "{:1.1f} {:1.1f} {:1d}"
+listaus_formaatti = "{:10.10f}         {:10.10f}          {:10d}"
 #tänne laitetaan mjonot myöhemmin
 testattava = """
 if "{:50.50s}" == "{:50.50s}":
@@ -36,8 +41,8 @@ def vertailu(testattava,iteraatiot,raja):
         vert1tulos = timeit.timeit(testattava.format(mjono1,mjono1),number=iteraatiot)
         #vertailleen epäidenttisiä jonoja"
         vert2tulos = timeit.timeit(testattava.format(mjono1,mjono2),number=iteraatiot)
-        iteraatiot += 5000
-        print(listaus_formaatti.format(vert1tulos, vert2tulos, iteraatiot))
+        iteraatiot += iteraatiot * 2
+        print(varit.KELT + listaus_formaatti.format(vert1tulos, vert2tulos, iteraatiot) + varit.ENDC)
 
-print("VrtTulos(M-jonot yhtäsuuret):  VrtTulos(M-jonot erisuuret):   Iteraatiot:")
+print(varit.SINI + "M-jonot yhtäsuuret:  M-jonot erisuuret:   Iteraatiot:" + varit.ENDC)
 vertailu(testattava,iteraatiot,raja)
