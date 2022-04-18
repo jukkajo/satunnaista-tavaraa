@@ -5,8 +5,9 @@ import math as ma
 #joukko -> lkm,joka kuuluu -> N, alue -> x = 0...neliön sivu y = 0...neliön sivu
 
 def onkoSisalla(kxy, origox, origoy, sade):
-    etaisyys = ma.sqrt(((origox - kxy[0]) ** 2) + (origoy - kxy[1]) ** 2)
-    if etaisyys <= sade ** 2:
+
+    etaisyys = ma.sqrt(((origox - (kxy[0]/2)) ** 2) + (origoy - (kxy[1]/2)) ** 2)
+    if etaisyys <= sade: #**2
        return True
     else:
        return False
@@ -14,22 +15,24 @@ def onkoSisalla(kxy, origox, origoy, sade):
 #likiarvo = 4k/n, jossa k=pisteet ympärän sisällä
 def laskePi(sade, lkm, t):
     k = 0
-    n = lkm     
+    n = lkm
     for i in range(0, lkm):
-        if onkoSisalla(t[i],0,0,sade):
+        if onkoSisalla(t[i],sade,sade,sade) == True:
             k += 1
-    return 4 * k / n
+    print(k,n)
+    return (4 * k) / n
 	    
 #testiarvot
 sivu = ra.randint(0,20)
 sade = sivu / 2
 
 #joukon suuruus
-lkm = ra.randint(0, 30)
+lkm = ra.randint(50, 1000)
 #generoidaan koordinaattien joukko
 
 print("Ympyrän säde: ", sade, "\n", "Koordinaattien joukko:")
 t = [[(ra.randint(0,sivu)) for i in range(2)] for j in range(lkm)]
-print(t)    
+print(t)
+print("t-pituus: ", t)
 print("Math kirjaston Pi vertailuksi: ", ma.pi)
 print("Piin likiarvo pistemenetelmällä: ", laskePi(sade, lkm, t))
