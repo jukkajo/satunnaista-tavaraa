@@ -20,6 +20,7 @@ Hyökkääjä voisi infektoida olemassa olevan paketin saamalla sille ylläpito-
 - Hanki haluttuun kehitystarkoitukseen käytettävän paketin y-oikeudet
 - Kehittäjä/kehittäjät asentaa paketin, paketti vielä vaaraton
     - Lisää haittakoodia pakettiin paketin kehittäjänä github-käyttäjänä
-            - Varasta ssh-avain näppäinkuuntelijalla, sisällytä jonkin metodin osaksi, aktivoituu jos string - "ssh "
+        - Varasta ssh-avain näppäinkuuntelijalla
+            -sisällytä jonkin metodin osaksi, aktivoituu jos string - "ssh "
             - Ohita koodikatselmointi käyttämälle ei vihamielisiä nimeämistapoja (koosta esim. string " ssh" useasta parametristä)
-            - Lähetä urkittu avain ssh:n yli haluttulle serverille
+     - Lähetä urkittu avain ssh:n yli haluttulle serverille
