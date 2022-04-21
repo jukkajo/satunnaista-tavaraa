@@ -1,0 +1,23 @@
+Kuinka vältän kurssilla esiintyneet tietoturva ongelmat?
+
+Työskenneltäessä arvokkaan datan kanssa, lienee olisi järkevää ottaa käyttöön jotkin vakioidut tarkastusmenetelmät, jolla valmiin ohjelman voisi vielä lopuksi tarkastaa
+selvinpien haavoittuvuuksien varalta. Tai ylipäätään, koostaa lista asioista, jotka täytyisi koodissa toteutua tietoturva-mielessä. Alla kappaleittain pohdintoja kurssin sisällön pääpiirteisiin osa-alueihin, ja niissä ilmenevien ongelmien estoon, sekä ennaltaehkäisyyn.
+
+Tiedostopolkujen käsittelyssä olisi pyrittävä välttämään suhteellisia polkuja.
+
+SQL-injektiot
+
+Prosessien käynnistäminen
+
+Lokitiedostot
+
+XSS
+
+Kokonaisluvun ylivuodot
+
+Ajastushyökkäyksiltä suojautuminen
+
+Riippuvuussuhdehyökkäykset
+
+Yhteenveto
+
