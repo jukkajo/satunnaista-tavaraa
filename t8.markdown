@@ -1,22 +1,21 @@
-# 1.
+# 1.Mitä pakettimanageria/managereja käyttämässäsi ohjelmointikielessä käytetään?
 Pythonilla pakettimanagerina käytetään yleensä pip:tä, mutta käytössä on muitakin, mm. pipen ja Poetry.
 
-# 2.
+# 2.Kuinka vaikeaa on lisätä oma paketti muiden haettavaksi?
 Turvallisuusmielessä sille ei ole muita esteitä kuin käyttäjätilin luominen PyPI:in.
 Vaatimuksina paketissa täytyy olla PyPI:n vaatima standardi-rakenne. Paketin lisäykselle on tutoriaaleja, joten lataus sinänsä tehty helpoksikin.
 
-# 3.
+# 3.Onko tämän pakettimanagerin kautta tehty hyökkäyksiä?
 On tehty, esim. paketin "noblesse" kautta on urkittu luottokorttitietoja ja 
 paketin "pytagore" välityksellä suoritettu etä-injektioita.
 
-# 5.
+# 5.Mitä pakettimanagerisi asentaa, jos tarjolla on lokaali (kehittäjän omalla koneella oleva) paketti joka on samanniminen kuin pakettivaraston paketti? Miksi on erittäin tärkeää valita tietyllä tavalla?
 Defaulttina pip etsii pakettia pakettivarastosta, joskin se tarkistaa onko pakettia vielä asennettu. Lokaalien pip-sopivien pakettien asennukseen tarvitaan "spesifimpää" komentoa.
 
-# 4.1
+# 4.1.Hahmottele keinoja, joilla hyökkääjä voisi toteuttaa riippuvuussuhdehyökkäyksen pakettivarastosi kautta?
 Hyökkääjä voisi infektoida olemassa olevan paketin saamalla sille ylläpito-oikeuksia. Vaihtoehtona myös uuden paketin tai näköispaketin luonti. Haittaohjelman taas voisi asentaa pakettiin niin että se ajetaan jo asennuksen aikana, tai piilottaa sen varsinaisen ohjelman rakenteisiin.
 
-# 4.2
-Hyökkäyspuu esimerkki:
+# 4.2.Hyökkäyspuu esimerkki
 
 - Hanki haluttuun kehitystarkoitukseen käytettävän paketin y-oikeudet
 - Kehittäjä/kehittäjät asentaa paketin, paketti vielä vaaraton
