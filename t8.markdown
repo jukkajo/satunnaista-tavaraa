@@ -1,16 +1,23 @@
-1. Pythonilla pakettimanagerina käytetään yleensä pip:tä, mutta käytössä on muitakin, mm. pipen ja Poetry.
+#1.
+Pythonilla pakettimanagerina käytetään yleensä pip:tä, mutta käytössä on muitakin, mm. pipen ja Poetry.
 
-2. Turvallisuusmielessä sille ei ole muita esteitä kuin käyttäjätilin luominen PyPI:in.
+#2.
+Turvallisuusmielessä sille ei ole muita esteitä kuin käyttäjätilin luominen PyPI:in.
 Vaatimuksina paketissa täytyy olla PyPI:n vaatima standardi-rakenne. Paketin lisäykselle on tutoriaaleja, joten lataus sinänsä tehty helpoksikin.
 
-3. On tehty, esim. paketin "noblesse" kautta on urkittu luottokorttitietoja ja 
+#3.
+On tehty, esim. paketin "noblesse" kautta on urkittu luottokorttitietoja ja 
 paketin "pytagore" välityksellä suoritettu etä-injektioita.
 
-5. Defaulttina pip etsii pakettia pakettivarastosta, joskin se tarkistaa onko pakettia vielä asennettu. Lokaalien pip-sopivien pakettien asennukseen tarvitaan "spesifimpää" komentoa.
+#5.
+Defaulttina pip etsii pakettia pakettivarastosta, joskin se tarkistaa onko pakettia vielä asennettu. Lokaalien pip-sopivien pakettien asennukseen tarvitaan "spesifimpää" komentoa.
 
-4.1 Hyökkääjä voisi infektoida olemassa olevan paketin saamalla sille ylläpito-oikeuksia. Vaihtoehtona myös uuden paketin tai näköispaketin luonti. Haittaohjelman taas voisi asentaa pakettiin niin että se ajetaan jo asennuksen aikana, tai piilottaa sen varsinaisen ohjelman rakenteisiin.
+#4.1
+Hyökkääjä voisi infektoida olemassa olevan paketin saamalla sille ylläpito-oikeuksia. Vaihtoehtona myös uuden paketin tai näköispaketin luonti. Haittaohjelman taas voisi asentaa pakettiin niin että se ajetaan jo asennuksen aikana, tai piilottaa sen varsinaisen ohjelman rakenteisiin.
 
-4.2 Hyökkäyspuu esimerkki
+#4.2
+Hyökkäyspuu esimerkki:
+
 - Hanki haluttuun kehitystarkoitukseen käytettävän paketin y-oikeudet
 - Kehittäjä/kehittäjät asentaa paketin, paketti vielä vaaraton
     - Lisää haittakoodia pakettiin paketin kehittäjänä github-käyttäjänä
