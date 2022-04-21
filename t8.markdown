@@ -23,6 +23,6 @@ Hyökkääjä voisi infektoida olemassa olevan paketin saamalla sille ylläpito-
         - Varasta ssh-avain näppäinkuuntelijalla
             -sisällytä jonkin metodin osaksi, aktivoituu jos string - "ssh "
             - Ohita koodikatselmointi käyttämälle ei vihamielisiä nimeämistapoja (koosta esim. string " ssh" useasta parametristä)
-     - Lähetä urkittu avain ssh:n yli haluttulle serverille
+     - Lähetä urkittu avain ssh:n yli halutulle serverille
 - Kun tarpeeksi avaimia, hylkää paketti tai anna oikeutesi kiertoon
 - Poista github-tili
