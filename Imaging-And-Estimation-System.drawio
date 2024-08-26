@@ -15,7 +15,7 @@
         <mxCell id="70s7Ck-FU3Y-pLnGWHpa-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Camera/Imaging Sensor&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="345" y="260" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="70s7Ck-FU3Y-pLnGWHpa-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Denoising System&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="70s7Ck-FU3Y-pLnGWHpa-3" value="&lt;font style=&quot;font-size: 14px; background-color: rgb(222, 221, 218);&quot;&gt;Denoising System&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="70s7Ck-FU3Y-pLnGWHpa-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;(Optional)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -31,7 +31,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="70s7Ck-FU3Y-pLnGWHpa-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Information Pool of &lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Target&lt;font style=&quot;font-size: 14px;&quot;&gt; Classes &lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="195" y="390" width="120" height="30" as="geometry" />
+          <mxGeometry x="195" y="400" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="70s7Ck-FU3Y-pLnGWHpa-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70s7Ck-FU3Y-pLnGWHpa-9" target="70s7Ck-FU3Y-pLnGWHpa-10">
           <mxGeometry relative="1" as="geometry" />
@@ -65,13 +65,13 @@
         <mxCell id="70s7Ck-FU3Y-pLnGWHpa-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70s7Ck-FU3Y-pLnGWHpa-13" target="70s7Ck-FU3Y-pLnGWHpa-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="70s7Ck-FU3Y-pLnGWHpa-13" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Target Preferencing&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;System&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="70s7Ck-FU3Y-pLnGWHpa-13" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px; background-color: rgb(222, 221, 218);&quot;&gt;Target Preferencing&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px; background-color: rgb(222, 221, 218);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;System&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="590" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="70s7Ck-FU3Y-pLnGWHpa-14" value="&lt;font style=&quot;font-size: 14px; background-color: rgb(143, 240, 164);&quot;&gt;3D Target Location Estimate(s)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="355" y="640" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="70s7Ck-FU3Y-pLnGWHpa-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Range Estimation System&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="70s7Ck-FU3Y-pLnGWHpa-15" value="&lt;font style=&quot;font-size: 14px; background-color: rgb(222, 221, 218);&quot;&gt;Range Estimation System&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="465" y="570" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="70s7Ck-FU3Y-pLnGWHpa-16" value="&lt;font style=&quot;font-size: 14px; background-color: rgb(143, 240, 164);&quot;&gt;LOS Vector(s)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -146,7 +146,10 @@
           <mxGeometry x="230" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="70s7Ck-FU3Y-pLnGWHpa-62" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="310" width="60" height="60" as="geometry" />
+          <mxGeometry x="230" y="280" width="65" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="70s7Ck-FU3Y-pLnGWHpa-65" value="&lt;font style=&quot;background-color: rgb(222, 221, 218);&quot; size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;System&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="70s7Ck-FU3Y-pLnGWHpa-62">
+          <mxGeometry x="2.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
