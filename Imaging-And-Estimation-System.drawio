@@ -139,6 +139,15 @@
             <mxPoint x="447" y="645" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="70s7Ck-FU3Y-pLnGWHpa-59" value="&lt;font style=&quot;font-size: 14px; background-color: rgb(153, 193, 241);&quot;&gt;Input&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="70s7Ck-FU3Y-pLnGWHpa-60" value="&lt;font style=&quot;font-size: 14px; background-color: rgb(143, 240, 164);&quot;&gt;Output&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="70s7Ck-FU3Y-pLnGWHpa-62" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="310" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
