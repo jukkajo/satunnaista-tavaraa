@@ -146,6 +146,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZzlZUPSb_2AQOhLsjF2_-18" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=14;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="ExMykXHlMgDT4OGUS_yV-17" source="ZzlZUPSb_2AQOhLsjF2_-17">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="200" y="240.5" as="sourcePoint" />
+            <mxPoint x="120" y="230.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="230.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZzlZUPSb_2AQOhLsjF2_-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Frame&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ExMykXHlMgDT4OGUS_yV-17">
+          <mxGeometry x="180" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="ExMykXHlMgDT4OGUS_yV-19" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Target motion / target presence&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="65" y="410" width="90" height="10" as="geometry" />
         </mxCell>
@@ -154,9 +166,6 @@
             <mxPoint x="110" y="400" as="sourcePoint" />
             <mxPoint x="-80" y="344.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="7CnAxa_aO4q5RgfNxw4t-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Target behavior, and location estimates&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="330" y="510" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7CnAxa_aO4q5RgfNxw4t-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ExMykXHlMgDT4OGUS_yV-19" target="ExMykXHlMgDT4OGUS_yV-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
