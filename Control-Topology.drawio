@@ -233,6 +233,9 @@
         <mxCell id="ZzlZUPSb_2AQOhLsjF2_-24" value="Detected, localized and classified targets" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-80" y="125" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZzlZUPSb_2AQOhLsjF2_-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
