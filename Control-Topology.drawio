@@ -7,11 +7,11 @@
         <mxCell id="54Sqg8tzMFon0Dzdc4sl-9" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Target preferences:&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;•&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt; Target class information&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;• &lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Pixel matrix (2D) coordinates&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="9.5" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="54Sqg8tzMFon0Dzdc4sl-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Target state estimates&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="54Sqg8tzMFon0Dzdc4sl-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Target state estimates&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="170" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="54Sqg8tzMFon0Dzdc4sl-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Actuator commands&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="650" y="140" width="60" height="30" as="geometry" />
+        <mxCell id="54Sqg8tzMFon0Dzdc4sl-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Actuator commands&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="650" y="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="54Sqg8tzMFon0Dzdc4sl-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="54Sqg8tzMFon0Dzdc4sl-22" target="54Sqg8tzMFon0Dzdc4sl-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -67,8 +67,8 @@
             <mxPoint x="680" y="226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="54Sqg8tzMFon0Dzdc4sl-44" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Accelaration&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;commands&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="145" width="160" height="40" as="geometry" />
+        <mxCell id="54Sqg8tzMFon0Dzdc4sl-44" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Accelaration&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;commands&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="150" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="54Sqg8tzMFon0Dzdc4sl-56" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=14;rounded=0;" parent="1" edge="1">
           <mxGeometry width="60" height="60" relative="1" as="geometry">
@@ -88,8 +88,8 @@
             <mxPoint x="470" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PKmfZwK_7ZfOv0ya9gpD-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Information retrieval and updates&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="550" y="90" width="110" height="40" as="geometry" />
+        <mxCell id="PKmfZwK_7ZfOv0ya9gpD-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Information retrieval and updates&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="110" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ExMykXHlMgDT4OGUS_yV-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Seeker System Entity&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="39.5" width="160" height="30" as="geometry" />
@@ -191,6 +191,12 @@
         </mxCell>
         <mxCell id="ZzlZUPSb_2AQOhLsjF2_-11" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Target direction and behaviour:&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;• LOS and its rate&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;• Range&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;• NED location estimate&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;• Relative velocity estimate&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="95" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzlZUPSb_2AQOhLsjF2_-15" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=14;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PKmfZwK_7ZfOv0ya9gpD-7">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="450" y="160" as="sourcePoint" />
+            <mxPoint x="470" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
