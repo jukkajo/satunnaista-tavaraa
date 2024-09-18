@@ -76,7 +76,7 @@
           <mxGeometry x="655" y="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k5dbzYPmEKb4m3-YLvvc-1" value="Vehicle Motion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="340" width="60" height="30" as="geometry" />
+          <mxGeometry x="153" y="338" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
