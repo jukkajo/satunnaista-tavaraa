@@ -54,7 +54,7 @@
             <mxPoint x="80" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dI72DCaeQd5_eXEMyyLv-8" value="Target Motion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dI72DCaeQd5_eXEMyyLv-8" value="Target motion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dI72DCaeQd5_eXEMyyLv-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="dI72DCaeQd5_eXEMyyLv-6">
@@ -62,6 +62,15 @@
             <mxPoint x="460" y="369" as="sourcePoint" />
             <mxPoint x="470" y="410" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dI72DCaeQd5_eXEMyyLv-17" value="Target direction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dI72DCaeQd5_eXEMyyLv-18" value="Target state estmates" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dI72DCaeQd5_eXEMyyLv-20" value="Acceleration commands" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="150" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
