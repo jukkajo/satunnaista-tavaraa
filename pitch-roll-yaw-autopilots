@@ -76,6 +76,24 @@
         <mxCell id="lz3v3L72cxiVrH8oNeEG-45" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\frac{k_q}{\tau_1 s + 1}$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="200" y="214.25" width="70" height="60.5" as="geometry" />
         </mxCell>
+        <mxCell id="lz3v3L72cxiVrH8oNeEG-49" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;$$e_{z}$$&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lz3v3L72cxiVrH8oNeEG-50" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;$$q_{z}$$&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lz3v3L72cxiVrH8oNeEG-51" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=14;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="-113" y="280" as="sourcePoint" />
+            <mxPoint x="-113" y="246" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lz3v3L72cxiVrH8oNeEG-52" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=14;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint y="280" as="sourcePoint" />
+            <mxPoint y="246" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
