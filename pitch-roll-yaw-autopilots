@@ -169,8 +169,8 @@
         <mxCell id="ujLQo6MIZehwQJNXxJUQ-3" value="Comparison of current rate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="400" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ujLQo6MIZehwQJNXxJUQ-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-195.25" y="222.75" width="70" height="34.5" as="geometry" />
+        <mxCell id="ujLQo6MIZehwQJNXxJUQ-5" value="Flight Dynamics Model&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-195.25" y="212" width="70" height="57.25" as="geometry" />
         </mxCell>
         <mxCell id="ujLQo6MIZehwQJNXxJUQ-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$W_{P1}(s)$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="270" y="50" width="70" height="34.5" as="geometry" />
