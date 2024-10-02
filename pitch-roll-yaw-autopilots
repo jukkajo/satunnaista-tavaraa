@@ -102,6 +102,9 @@
         <mxCell id="lz3v3L72cxiVrH8oNeEG-55" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;$$\delta P$$&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="212" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="lz3v3L72cxiVrH8oNeEG-56" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;$$\delta P_c$$&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="259.5" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
