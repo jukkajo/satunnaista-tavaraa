@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QDH-YoVj_GFzQLwPVbRB-4" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="480" as="sourcePoint" />
+            <mxPoint x="380" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QDH-YoVj_GFzQLwPVbRB-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="430" as="sourcePoint" />
@@ -18,12 +24,6 @@
         </mxCell>
         <mxCell id="QDH-YoVj_GFzQLwPVbRB-3" value="Flow of air mass" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="390" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QDH-YoVj_GFzQLwPVbRB-4" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="480" as="sourcePoint" />
-            <mxPoint x="380" y="330" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="QDH-YoVj_GFzQLwPVbRB-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -83,7 +83,7 @@
           <mxGeometry x="440" y="480" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QDH-YoVj_GFzQLwPVbRB-19" value="&lt;div&gt;Airfoil model:&lt;/div&gt;&lt;div&gt;&quot;flat plate&quot;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="260" y="190" width="70" height="60" as="geometry" />
+          <mxGeometry x="240" y="200" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QDH-YoVj_GFzQLwPVbRB-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
