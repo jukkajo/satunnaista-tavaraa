@@ -109,6 +109,18 @@
             <mxPoint x="610" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QDH-YoVj_GFzQLwPVbRB-25" value="Lift" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QDH-YoVj_GFzQLwPVbRB-26" value="Force of deflecting air" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="197" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QDH-YoVj_GFzQLwPVbRB-27" value="Resultant force" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QDH-YoVj_GFzQLwPVbRB-28" value="Drag" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
