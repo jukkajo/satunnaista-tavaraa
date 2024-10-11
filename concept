@@ -435,6 +435,12 @@
         <mxCell id="WIm83FNp1zIA2GRGucCI-10" value="Storage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="810" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WIm83FNp1zIA2GRGucCI-11" value="" style="swimlane;startSize=0;strokeColor=#D6B656;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="945" y="830" width="350" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="WIm83FNp1zIA2GRGucCI-14" value="Integration of IMU&#39;s Systematic Errors" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="800" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
