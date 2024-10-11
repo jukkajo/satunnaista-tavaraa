@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FNeWSesRLJCkGwhgbsid-1" value="&lt;b&gt;Structuring Concept&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="138" y="210" width="120" height="50" as="geometry" />
+        <mxCell id="FNeWSesRLJCkGwhgbsid-1" value="&lt;b&gt;Guidance System model&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="138" y="170" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FNeWSesRLJCkGwhgbsid-3" value="&lt;div&gt;Computing information&lt;/div&gt;&lt;div&gt;For guidance Law&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="140" y="460" width="150" height="65" as="geometry" />
