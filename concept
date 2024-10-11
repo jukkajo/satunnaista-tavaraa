@@ -70,6 +70,9 @@
         <mxCell id="FNeWSesRLJCkGwhgbsid-24" value="Design criteria" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="330" y="260" width="105" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="FNeWSesRLJCkGwhgbsid-30" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Initial conditions:&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Target position&lt;/li&gt;&lt;li&gt;and velocity&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="630" width="130" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
