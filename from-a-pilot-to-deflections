@@ -153,6 +153,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="KNA35kkyAMawzDK_m463-22" value="Three position components" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="391.56" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KNA35kkyAMawzDK_m463-23" value="Three velocity components" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="441.56" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KNA35kkyAMawzDK_m463-25" value="Three attitude components" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="482.22" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
