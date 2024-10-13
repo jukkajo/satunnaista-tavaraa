@@ -53,10 +53,10 @@
           <mxGeometry x="182" y="323" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bsybsUx8M-LmsEBnRgZM-30" value="Transformation to NED frame, computational frame of reference" style="text;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="360" y="390" width="180" height="40" as="geometry" />
+          <mxGeometry x="335" y="391.56" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bsybsUx8M-LmsEBnRgZM-31" value="Attitude Computation" style="text;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="387.5" y="480.66" width="125" height="26.23" as="geometry" />
+          <mxGeometry x="362.5" y="482.22" width="125" height="26.23" as="geometry" />
         </mxCell>
         <mxCell id="KNA35kkyAMawzDK_m463-3" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=14;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3333;" edge="1" parent="1" source="bsybsUx8M-LmsEBnRgZM-12" target="bsybsUx8M-LmsEBnRgZM-31">
           <mxGeometry width="60" height="60" relative="1" as="geometry">
@@ -81,12 +81,12 @@
         </mxCell>
         <mxCell id="KNA35kkyAMawzDK_m463-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF3333;strokeWidth=2;" edge="1" parent="1" target="bsybsUx8M-LmsEBnRgZM-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="480" as="sourcePoint" />
-            <mxPoint x="520" y="430" as="targetPoint" />
+            <mxPoint x="425" y="481.56" as="sourcePoint" />
+            <mxPoint x="495" y="431.56" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KNA35kkyAMawzDK_m463-7" value="Plarform orintation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="452.5" y="440" width="60" height="30" as="geometry" />
+          <mxGeometry x="427.5" y="441.56" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KNA35kkyAMawzDK_m463-8" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=14;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3333;" edge="1" parent="1" target="bsybsUx8M-LmsEBnRgZM-30">
           <mxGeometry width="60" height="60" relative="1" as="geometry">
@@ -112,6 +112,18 @@
           <mxGeometry width="60" height="60" relative="1" as="geometry">
             <mxPoint x="270" y="443" as="sourcePoint" />
             <mxPoint x="270" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNA35kkyAMawzDK_m463-12" value="&lt;div align=&quot;center&quot;&gt;$$\int$$&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#d5e8d4;align=center;" vertex="1" parent="1">
+          <mxGeometry x="550" y="376.56" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KNA35kkyAMawzDK_m463-15" value="&lt;div align=&quot;center&quot;&gt;$$\int$$&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#d5e8d4;align=center;" vertex="1" parent="1">
+          <mxGeometry x="620" y="376.56" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KNA35kkyAMawzDK_m463-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF3333;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="514.56" as="sourcePoint" />
+            <mxPoint x="760" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
