@@ -61,6 +61,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SH7PLvU-9gq8zQL0foui-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;R&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_65BAjc6OIqn6Z8mEQ-Z-15">
+          <mxGeometry x="0.0138" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_65BAjc6OIqn6Z8mEQ-Z-16" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="503" y="-30" as="sourcePoint" />
