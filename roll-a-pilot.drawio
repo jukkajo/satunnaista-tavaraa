@@ -298,8 +298,18 @@
         <mxCell id="5-_XmHX38aetOl3ovNY6-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;INS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="325" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5-_XmHX38aetOl3ovNY6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5-_XmHX38aetOl3ovNY6-5" target="n1YZ1JOzVix0Rl63Bj6r-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5-_XmHX38aetOl3ovNY6-18" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;\(e_{\dot{\phi}}\)&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5-_XmHX38aetOl3ovNY6-17">
+          <mxGeometry x="-0.0208" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5-_XmHX38aetOl3ovNY6-5" value="\(\sum\)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="320" y="320" width="40" height="40" as="geometry" />
+          <mxGeometry x="320" y="316.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5-_XmHX38aetOl3ovNY6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="5-_XmHX38aetOl3ovNY6-5">
           <mxGeometry relative="1" as="geometry">
@@ -307,7 +317,7 @@
             <mxPoint x="279" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5-_XmHX38aetOl3ovNY6-7" value="\(\dot{\phi}=K_\phi(\phi_d - \phi_a)\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="5-_XmHX38aetOl3ovNY6-7" value="\(\dot{\phi}_d=k_\phi(\phi_d - \phi_a)\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="290" y="235" width="110" height="35" as="geometry" />
         </mxCell>
         <mxCell id="5-_XmHX38aetOl3ovNY6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5-_XmHX38aetOl3ovNY6-8">
@@ -324,7 +334,7 @@
             <mxPoint x="310" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5-_XmHX38aetOl3ovNY6-15" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;\(e_{\dot{\phi}}\)&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5-_XmHX38aetOl3ovNY6-14">
+        <mxCell id="5-_XmHX38aetOl3ovNY6-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;\(\dot{\phi_d}\)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5-_XmHX38aetOl3ovNY6-14">
           <mxGeometry x="-0.1873" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
