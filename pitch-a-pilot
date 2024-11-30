@@ -274,9 +274,9 @@
             <mxPoint x="314.5" y="-84" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t5p4BG04yQ2rOGzt35Ce-112" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.381;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t5p4BG04yQ2rOGzt35Ce-108" target="t5p4BG04yQ2rOGzt35Ce-59">
+        <mxCell id="t5p4BG04yQ2rOGzt35Ce-112" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="t5p4BG04yQ2rOGzt35Ce-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" as="sourcePoint" />
+            <mxPoint x="400" as="sourcePoint" />
             <mxPoint x="540" y="-50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -287,6 +287,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="30" as="sourcePoint" />
             <mxPoint x="244" y="-35" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t5p4BG04yQ2rOGzt35Ce-118" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;\(K_{e_y}(t)\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t5p4BG04yQ2rOGzt35Ce-119" value="" style="endArrow=none;html=1;rounded=0;entryX=0.384;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="t5p4BG04yQ2rOGzt35Ce-108">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-20" as="sourcePoint" />
+            <mxPoint x="450" y="-70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
