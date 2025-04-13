@@ -317,10 +317,10 @@
           <mxGeometry x="35" y="1260" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_ZaXw0r7vrpEVHskSqdt-181" value="Try Charge User" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1200" width="320" height="230" as="geometry" />
+          <mxGeometry x="20" y="1200" width="310" height="250" as="geometry" />
         </mxCell>
         <mxCell id="_ZaXw0r7vrpEVHskSqdt-127" value="&lt;div&gt;Store To&lt;/div&gt;&lt;div&gt;Payments&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_ZaXw0r7vrpEVHskSqdt-181">
-          <mxGeometry x="215" y="110" width="80" height="50" as="geometry" />
+          <mxGeometry x="215" y="150" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_ZaXw0r7vrpEVHskSqdt-225" value="Continue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_ZaXw0r7vrpEVHskSqdt-181">
           <mxGeometry x="215" y="40" width="70" height="30" as="geometry" />
@@ -332,7 +332,7 @@
           <mxGeometry x="120" y="40" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_ZaXw0r7vrpEVHskSqdt-120" value="Fail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_ZaXw0r7vrpEVHskSqdt-181">
-          <mxGeometry x="120" y="120" width="70" height="30" as="geometry" />
+          <mxGeometry x="120" y="160" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_ZaXw0r7vrpEVHskSqdt-236" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_ZaXw0r7vrpEVHskSqdt-181" source="_ZaXw0r7vrpEVHskSqdt-120" target="_ZaXw0r7vrpEVHskSqdt-127">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -341,7 +341,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_ZaXw0r7vrpEVHskSqdt-237" value="Return" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_ZaXw0r7vrpEVHskSqdt-181">
-          <mxGeometry x="120" y="170" width="70" height="30" as="geometry" />
+          <mxGeometry x="120" y="210" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_ZaXw0r7vrpEVHskSqdt-238" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_ZaXw0r7vrpEVHskSqdt-181" source="_ZaXw0r7vrpEVHskSqdt-120" target="_ZaXw0r7vrpEVHskSqdt-237">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -353,6 +353,25 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="120" as="sourcePoint" />
             <mxPoint x="520" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-240" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_ZaXw0r7vrpEVHskSqdt-181" source="_ZaXw0r7vrpEVHskSqdt-121" target="_ZaXw0r7vrpEVHskSqdt-127">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="120" as="sourcePoint" />
+            <mxPoint x="250" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="155" y="130" />
+              <mxPoint x="255" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-241" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="_ZaXw0r7vrpEVHskSqdt-181" source="_ZaXw0r7vrpEVHskSqdt-121" target="_ZaXw0r7vrpEVHskSqdt-225">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="120" as="sourcePoint" />
+            <mxPoint x="390" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="95" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_ZaXw0r7vrpEVHskSqdt-186" value="Failed Payment: No action -&amp;gt; Return" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
