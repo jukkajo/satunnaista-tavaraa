@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.8">
   <diagram name="Page-1" id="DwaMH2JpOsoDE0HSdtV0">
-    <mxGraphModel dx="1362" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1362" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -390,6 +390,27 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="1380" as="sourcePoint" />
             <mxPoint x="160" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-243" value="Fetch Subscription Data Between 2 Users" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-245" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ZaXw0r7vrpEVHskSqdt-243" target="_ZaXw0r7vrpEVHskSqdt-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="60" as="sourcePoint" />
+            <mxPoint x="800" y="10" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-246" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="10" as="sourcePoint" />
+            <mxPoint x="410" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="10" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
