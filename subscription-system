@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.8">
   <diagram name="Page-1" id="DwaMH2JpOsoDE0HSdtV0">
-    <mxGraphModel>
+    <mxGraphModel dx="1362" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZaXw0r7vrpEVHskSqdt-1" target="_ZaXw0r7vrpEVHskSqdt-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZaXw0r7vrpEVHskSqdt-1" target="_ZaXw0r7vrpEVHskSqdt-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-1" value="Base subscription exists?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="50" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZaXw0r7vrpEVHskSqdt-2" target="_ZaXw0r7vrpEVHskSqdt-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZaXw0r7vrpEVHskSqdt-2" target="_ZaXw0r7vrpEVHskSqdt-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-2" value="Deal subscription exists?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="50" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-4" value="Type of attempted purchase" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="50" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-5" value="A: Monthly" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_ZaXw0r7vrpEVHskSqdt-4">
+          <mxGeometry y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-6" value="&lt;div&gt;B: Promo&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_ZaXw0r7vrpEVHskSqdt-4">
+          <mxGeometry y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-7" value="C: Bundle" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_ZaXw0r7vrpEVHskSqdt-4">
+          <mxGeometry y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-9" value="Yes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-11" value="No" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-12" value="Yes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="160" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-13" value="No" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="160" width="60" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
