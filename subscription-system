@@ -527,7 +527,7 @@
             <mxRectangle width="46" height="55" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBKo4n8o0QYo_J2yHXvo-97" value="Action Summary: Add new bundle deal" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-95">
+        <mxCell id="aBKo4n8o0QYo_J2yHXvo-97" value="Action Summary: Update Inactive Bundle Deal &amp;amp; Pause Subscription Until It Ends" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-95">
           <mxGeometry x="46" width="414" height="55" as="geometry">
             <mxRectangle width="414" height="55" as="alternateBounds" />
           </mxGeometry>
