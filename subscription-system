@@ -1117,7 +1117,7 @@
         <mxCell id="aBKo4n8o0QYo_J2yHXvo-244" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Allowed Cases and Actions&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="970" y="350" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aBKo4n8o0QYo_J2yHXvo-272" value="Base: Inactive" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+        <mxCell id="aBKo4n8o0QYo_J2yHXvo-272" value="No Base" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="30" y="2550" width="910" height="740" as="geometry" />
         </mxCell>
         <mxCell id="aBKo4n8o0QYo_J2yHXvo-273" value="Deal: Active" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-272">
