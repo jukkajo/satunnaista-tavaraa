@@ -1522,7 +1522,7 @@
             <mxRectangle width="43" height="55" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBKo4n8o0QYo_J2yHXvo-380" value="Action Summary: Renew Subscription &amp;amp; Pause Until Promo Ends" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-378">
+        <mxCell id="aBKo4n8o0QYo_J2yHXvo-380" value="Action Summary: Update Promo Only Subscription To Recurring &amp;amp; Pause It Until Promo Ends" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-378">
           <mxGeometry x="43" width="387" height="55" as="geometry">
             <mxRectangle width="387" height="55" as="alternateBounds" />
           </mxGeometry>
@@ -1535,7 +1535,7 @@
             <mxRectangle width="43" height="55" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBKo4n8o0QYo_J2yHXvo-383" value="Action Summary: Update Active Promo Deal To Bundle Deal &amp;amp; Update Subscription To Bundle Only" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-381">
+        <mxCell id="aBKo4n8o0QYo_J2yHXvo-383" value="Action Summary: Update Active Promo Deal To Bundle Deal &amp;amp; Update Promo Only Subscription To Bundle Only" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-381">
           <mxGeometry x="43" width="387" height="55" as="geometry">
             <mxRectangle width="387" height="55" as="alternateBounds" />
           </mxGeometry>
@@ -1548,7 +1548,7 @@
             <mxRectangle width="43" height="55" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBKo4n8o0QYo_J2yHXvo-386" value="Action Summary: Renew Inactive Subscription &amp;amp; Pause It Until Bundle Ends" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-384">
+        <mxCell id="aBKo4n8o0QYo_J2yHXvo-386" value="&lt;div&gt;Action Summary: Update Bundle Only Subscription To Recurring &amp;amp; Pause It Until Bundle Ends&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-384">
           <mxGeometry x="43" width="387" height="55" as="geometry">
             <mxRectangle width="387" height="55" as="alternateBounds" />
           </mxGeometry>
