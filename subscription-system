@@ -1264,7 +1264,7 @@
         <mxCell id="aBKo4n8o0QYo_J2yHXvo-319" value="&lt;font&gt;No regular subscription &amp;amp;&lt;/font&gt;&lt;br&gt;Has InActive deal: Promo &amp;amp;&lt;br&gt;Tries to buy Promo" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-272">
           <mxGeometry x="420" y="350" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aBKo4n8o0QYo_J2yHXvo-320" value="&lt;font&gt;No regular subscription &amp;amp;&lt;/font&gt;&lt;br&gt;Has InActive deal: Bundle &amp;amp;&lt;br&gt;Tries to buy Bundle" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-272">
+        <mxCell id="aBKo4n8o0QYo_J2yHXvo-320" value="&lt;font&gt;No regular subscription &amp;amp;&lt;/font&gt;&lt;br&gt;Has InActive deal: Promo &amp;amp;&lt;br&gt;Tries to buy Bundle" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-272">
           <mxGeometry x="670" y="370" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aBKo4n8o0QYo_J2yHXvo-321" value="&lt;font&gt;No regular subscription &amp;amp;&lt;/font&gt;&lt;br&gt;Has InActive deal: Bundle &amp;amp;&lt;br&gt;Tries to buy Regular" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-272">
@@ -1561,7 +1561,7 @@
             <mxRectangle width="43" height="55" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBKo4n8o0QYo_J2yHXvo-389" value="Action Summary: Update Promo Only Subscription To Recurring &amp;amp; Pause It Until Promo Ends" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-387">
+        <mxCell id="aBKo4n8o0QYo_J2yHXvo-389" value="Action Summary: Update Inactive Promo Only Subscription To Recurring" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-387">
           <mxGeometry x="43" width="387" height="55" as="geometry">
             <mxRectangle width="387" height="55" as="alternateBounds" />
           </mxGeometry>
@@ -1574,7 +1574,7 @@
             <mxRectangle width="43" height="55" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBKo4n8o0QYo_J2yHXvo-392" value="Action Summary: Update Inactive Promo Deal&amp;nbsp; &amp;amp; Update Subscription To Promo Only " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-390">
+        <mxCell id="aBKo4n8o0QYo_J2yHXvo-392" value="Action Summary: Update Inactive Promo Deal " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-390">
           <mxGeometry x="43" width="387" height="55" as="geometry">
             <mxRectangle width="387" height="55" as="alternateBounds" />
           </mxGeometry>
@@ -1587,7 +1587,7 @@
             <mxRectangle width="43" height="55" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBKo4n8o0QYo_J2yHXvo-395" value="Action Summary: Update Inactive Bundle Deal &amp;amp; Update Subscription To Bundle Only" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-393">
+        <mxCell id="aBKo4n8o0QYo_J2yHXvo-395" value="Action Summary: Update Inactive Promo Deal To Bundle Deal &amp;amp; Update Subscription To Bundle Only" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-393">
           <mxGeometry x="43" width="387" height="55" as="geometry">
             <mxRectangle width="387" height="55" as="alternateBounds" />
           </mxGeometry>
@@ -1600,7 +1600,7 @@
             <mxRectangle width="43" height="55" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBKo4n8o0QYo_J2yHXvo-398" value="Action Summary: Renew Inactive Subscription" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-396">
+        <mxCell id="aBKo4n8o0QYo_J2yHXvo-398" value="Action Summary: Update Inactive Bundle Only Subscription To Recurring" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-396">
           <mxGeometry x="43" width="387" height="55" as="geometry">
             <mxRectangle width="387" height="55" as="alternateBounds" />
           </mxGeometry>
@@ -1626,7 +1626,7 @@
             <mxRectangle width="43" height="55" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBKo4n8o0QYo_J2yHXvo-404" value="Action Summary: Update Inactive Bundle Deal &amp;amp; Update Inactive Subscription To Bundle Only" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-402">
+        <mxCell id="aBKo4n8o0QYo_J2yHXvo-404" value="Action Summary: Update Inactive Bundle Deal &amp;amp; Update Inactive Bundle Only Subscription" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-402">
           <mxGeometry x="43" width="387" height="55" as="geometry">
             <mxRectangle width="387" height="55" as="alternateBounds" />
           </mxGeometry>
@@ -1639,7 +1639,7 @@
             <mxRectangle width="43" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBKo4n8o0QYo_J2yHXvo-407" value="Action Summary: Renew Inactive Subscription" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-405">
+        <mxCell id="aBKo4n8o0QYo_J2yHXvo-407" value="Action Summary: Add Recurrig Subscription" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-405">
           <mxGeometry x="43" width="387" height="60" as="geometry">
             <mxRectangle width="387" height="60" as="alternateBounds" />
           </mxGeometry>
@@ -1652,7 +1652,7 @@
             <mxRectangle width="43" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBKo4n8o0QYo_J2yHXvo-410" value="Action Summary: Add New Promo Deal &amp;amp; Update Inactive Subscription To Promo Only" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-408">
+        <mxCell id="aBKo4n8o0QYo_J2yHXvo-410" value="Action Summary: Add Promo Only Subscription &amp;amp; Add Promo Deal" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-408">
           <mxGeometry x="43" width="387" height="60" as="geometry">
             <mxRectangle width="387" height="60" as="alternateBounds" />
           </mxGeometry>
@@ -1665,7 +1665,7 @@
             <mxRectangle width="43" height="55" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBKo4n8o0QYo_J2yHXvo-413" value="Action Summary: Add New Bundle Deal &amp;amp; Update Subscription To Bundle Only" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-411">
+        <mxCell id="aBKo4n8o0QYo_J2yHXvo-413" value="Action Summary: Add Bundle Only Subscription &amp;amp; Add Bundle Deal" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-411">
           <mxGeometry x="43" width="387" height="55" as="geometry">
             <mxRectangle width="387" height="55" as="alternateBounds" />
           </mxGeometry>
