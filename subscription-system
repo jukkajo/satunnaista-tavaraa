@@ -10,8 +10,8 @@
         <mxCell id="_ZaXw0r7vrpEVHskSqdt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_ZaXw0r7vrpEVHskSqdt-1" target="_ZaXw0r7vrpEVHskSqdt-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ZaXw0r7vrpEVHskSqdt-1" value="Base subscription exists?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="50" width="120" height="50" as="geometry" />
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-1" value="Base subscription exists? (No Record or billing type is promo only or bundle only)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="30" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_ZaXw0r7vrpEVHskSqdt-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_ZaXw0r7vrpEVHskSqdt-2" target="_ZaXw0r7vrpEVHskSqdt-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -494,10 +494,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ZaXw0r7vrpEVHskSqdt-246" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-246" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="10" as="sourcePoint" />
-            <mxPoint x="410" y="50" as="targetPoint" />
+            <mxPoint x="410" y="30" as="targetPoint" />
             <Array as="points">
               <mxPoint x="410" y="10" />
             </Array>
@@ -1522,7 +1522,7 @@
             <mxRectangle width="43" height="55" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBKo4n8o0QYo_J2yHXvo-380" value="Action Summary: Renew Inactive Subscription &amp;amp; Pause Until Promo Ends" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-378">
+        <mxCell id="aBKo4n8o0QYo_J2yHXvo-380" value="Action Summary: Renew Subscription &amp;amp; Pause Until Promo Ends" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-378">
           <mxGeometry x="43" width="387" height="55" as="geometry">
             <mxRectangle width="387" height="55" as="alternateBounds" />
           </mxGeometry>
