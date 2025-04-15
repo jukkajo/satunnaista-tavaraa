@@ -1673,7 +1673,7 @@
         <mxCell id="aBKo4n8o0QYo_J2yHXvo-414" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Allowed Cases and Actions&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="985" y="2530" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aBKo4n8o0QYo_J2yHXvo-416" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;If no previous subscriptions, we create subscription instance only if payment succeeds and then insert payment and subscription instance(s)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aBKo4n8o0QYo_J2yHXvo-416" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;If no previous subscriptions, we create subscription instance(s) only if payment succeeds and then insert payment. In fail case we just insert failed payment.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="3330" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aBKo4n8o0QYo_J2yHXvo-417" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;If user has previous subscription instance we link it to payment instance by id right away. if payment fails, we dont alter subscriptions, but failed payment instance is stored to payment table. There is allowed to be multiple such in payments table&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1690,6 +1690,9 @@
         </mxCell>
         <mxCell id="aBKo4n8o0QYo_J2yHXvo-423" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;If no previous subscriptions, we create subscription instance only if payment succeeds and then insert payment and subscription instance(s)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="1160" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aBKo4n8o0QYo_J2yHXvo-424" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Edge Case: If access creator_to_fan type &lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="-20" width="310" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
