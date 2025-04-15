@@ -10,7 +10,7 @@
         <mxCell id="_ZaXw0r7vrpEVHskSqdt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_ZaXw0r7vrpEVHskSqdt-1" target="_ZaXw0r7vrpEVHskSqdt-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ZaXw0r7vrpEVHskSqdt-1" value="Base subscription exists? (No Record or billing type is promo only or bundle only)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-1" value="Base subscription exists? " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="30" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_ZaXw0r7vrpEVHskSqdt-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_ZaXw0r7vrpEVHskSqdt-2" target="_ZaXw0r7vrpEVHskSqdt-12" edge="1">
@@ -34,8 +34,8 @@
         <mxCell id="_ZaXw0r7vrpEVHskSqdt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_ZaXw0r7vrpEVHskSqdt-11" target="_ZaXw0r7vrpEVHskSqdt-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ZaXw0r7vrpEVHskSqdt-11" value="No" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="160" width="60" height="40" as="geometry" />
+        <mxCell id="_ZaXw0r7vrpEVHskSqdt-11" value="&lt;div&gt;No&amp;nbsp;&lt;/div&gt;&lt;div&gt;(No Record or billing type is promo only or bundle only)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="140" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_ZaXw0r7vrpEVHskSqdt-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_ZaXw0r7vrpEVHskSqdt-12" target="_ZaXw0r7vrpEVHskSqdt-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
