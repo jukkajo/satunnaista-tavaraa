@@ -1135,7 +1135,7 @@
             <mxRectangle width="387" height="55" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUloyDDhb5r3CM2e5-GQ-13" value="Call Functions:" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-235">
+        <mxCell id="GUloyDDhb5r3CM2e5-GQ-13" value="Call Functions: updateSubscriptionDeal, updateSubscription" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-235">
           <mxGeometry x="430" width="387" height="55" as="geometry">
             <mxRectangle width="387" height="55" as="alternateBounds" />
           </mxGeometry>
@@ -1153,7 +1153,7 @@
             <mxRectangle width="387" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUloyDDhb5r3CM2e5-GQ-14" value="Call Functions:" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-269">
+        <mxCell id="GUloyDDhb5r3CM2e5-GQ-14" value="Call Functions: updateSubscription" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-269">
           <mxGeometry x="430" width="387" height="60" as="geometry">
             <mxRectangle width="387" height="60" as="alternateBounds" />
           </mxGeometry>
@@ -1171,7 +1171,7 @@
             <mxRectangle width="387" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUloyDDhb5r3CM2e5-GQ-15" value="Call Functions:" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-238">
+        <mxCell id="GUloyDDhb5r3CM2e5-GQ-15" value="Call Functions: insertSubscriptionDeal, updateSubscription" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-238">
           <mxGeometry x="430" width="387" height="60" as="geometry">
             <mxRectangle width="387" height="60" as="alternateBounds" />
           </mxGeometry>
@@ -1189,7 +1189,7 @@
             <mxRectangle width="387" height="55" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUloyDDhb5r3CM2e5-GQ-16" value="Call Functions:" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-241">
+        <mxCell id="GUloyDDhb5r3CM2e5-GQ-16" value="Call Functions: insertSubscriptionDeal updateSubscription" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-241">
           <mxGeometry x="430" width="387" height="55" as="geometry">
             <mxRectangle width="387" height="55" as="alternateBounds" />
           </mxGeometry>
