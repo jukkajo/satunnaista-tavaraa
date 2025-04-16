@@ -557,7 +557,7 @@
             <mxRectangle width="414" height="115" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUloyDDhb5r3CM2e5-GQ-113" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;const updatedSubscription = await &lt;br/&gt;updateSubscription(details.id, { monthlyCost: price, status: &#39;active || &lt;br/&gt;paused&#39;, billingType: &#39;recurring || promo_only || bundle_only&#39;, &lt;br/&gt;accessUntil });&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-95">
+        <mxCell id="GUloyDDhb5r3CM2e5-GQ-113" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;const updatedSubscription = await &lt;br&gt;updateSubscription(details.id, { monthlyCost: price, status: &#39;paused&#39;, billingType: &#39;recurring&#39;, &lt;br&gt;accessUntil });&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-95">
           <mxGeometry x="1288" width="414" height="115" as="geometry">
             <mxRectangle width="414" height="115" as="alternateBounds" />
           </mxGeometry>
