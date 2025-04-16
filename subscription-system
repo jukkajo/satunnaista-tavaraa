@@ -1009,7 +1009,7 @@
             <mxRectangle width="387" height="55" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUloyDDhb5r3CM2e5-GQ-6" value="Call Functions:" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-223">
+        <mxCell id="GUloyDDhb5r3CM2e5-GQ-6" value="Call Functions: updateSubscriptionDeal, updateSubscription" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-223">
           <mxGeometry x="430" width="387" height="55" as="geometry">
             <mxRectangle width="387" height="55" as="alternateBounds" />
           </mxGeometry>
