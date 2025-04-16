@@ -1828,7 +1828,7 @@
             <mxRectangle width="387" height="104" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUloyDDhb5r3CM2e5-GQ-56" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;const updatedSubscription = await &lt;br/&gt;updateSubscription(details.id, { monthlyCost: price, status: &#39;active || &lt;br/&gt;paused&#39;, billingType: &#39;recurring || promo_only || bundle_only&#39;, &lt;br/&gt;accessUntil });&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-384">
+        <mxCell id="GUloyDDhb5r3CM2e5-GQ-56" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;const updatedSubscription = await &lt;br&gt;updateSubscription(details.id, { monthlyCost: price, status: &#39;paused&#39;, billingType: &#39;recurring&#39;, accessUntil });&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-384">
           <mxGeometry x="817" width="387" height="104" as="geometry">
             <mxRectangle width="387" height="104" as="alternateBounds" />
           </mxGeometry>
@@ -1856,7 +1856,7 @@
             <mxRectangle width="387" height="103" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUloyDDhb5r3CM2e5-GQ-57" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;const updatedSubscription = await &lt;br/&gt;updateSubscription(details.id, { monthlyCost: price, status: &#39;active || &lt;br/&gt;paused&#39;, billingType: &#39;recurring || promo_only || bundle_only&#39;, &lt;br/&gt;accessUntil });&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-387">
+        <mxCell id="GUloyDDhb5r3CM2e5-GQ-57" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;const updatedSubscription = await &lt;br&gt;updateSubscription(details.id, { monthlyCost: price, status: &#39;active&#39;, billingType: &#39;recurring&#39;, &lt;br&gt;accessUntil:&amp;nbsp; null });&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-387">
           <mxGeometry x="817" width="387" height="103" as="geometry">
             <mxRectangle width="387" height="103" as="alternateBounds" />
           </mxGeometry>
@@ -1884,7 +1884,7 @@
             <mxRectangle width="387" height="102" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUloyDDhb5r3CM2e5-GQ-58" value="const updatedDeal = await updateSubscriptionDeal(details.deal_id, { purchaseType: &#39;promo || bundle&#39;, price, duration, expiration, status: &#39;active || expired&#39; });" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-390">
+        <mxCell id="GUloyDDhb5r3CM2e5-GQ-58" value="const updatedDeal = await updateSubscriptionDeal(details.deal_id, { price, duration, expiration, status: &#39;active&#39; });" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-390">
           <mxGeometry x="817" width="387" height="102" as="geometry">
             <mxRectangle width="387" height="102" as="alternateBounds" />
           </mxGeometry>
@@ -1912,12 +1912,12 @@
             <mxRectangle width="387" height="103" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUloyDDhb5r3CM2e5-GQ-59" value="const updatedDeal = await updateSubscriptionDeal(details.deal_id, { purchaseType: &#39;promo || bundle&#39;, price, duration, expiration, status: &#39;active || expired&#39; });" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-393">
+        <mxCell id="GUloyDDhb5r3CM2e5-GQ-59" value="const updatedDeal = await updateSubscriptionDeal(details.deal_id, { purchaseType: &#39;bundle&#39;, price, duration, expiration, status: &#39;active&#39; });" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-393">
           <mxGeometry x="817" width="387" height="103" as="geometry">
             <mxRectangle width="387" height="103" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUloyDDhb5r3CM2e5-GQ-101" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;const updatedSubscription = await &lt;br/&gt;updateSubscription(details.id, { monthlyCost: price, status: &#39;active || &lt;br/&gt;paused&#39;, billingType: &#39;recurring || promo_only || bundle_only&#39;, &lt;br/&gt;accessUntil });&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-393">
+        <mxCell id="GUloyDDhb5r3CM2e5-GQ-101" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;const updatedSubscription = await &lt;br&gt;updateSubscription(details.id, { monthlyCost: nuöö, status: &#39;active&#39;, billingType: &#39;bundle_only&#39;, &lt;br&gt;accessUntil });&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-393">
           <mxGeometry x="1204" width="387" height="103" as="geometry">
             <mxRectangle width="387" height="103" as="alternateBounds" />
           </mxGeometry>
@@ -1940,7 +1940,7 @@
             <mxRectangle width="387" height="103" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUloyDDhb5r3CM2e5-GQ-60" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;const updatedSubscription = await &lt;br/&gt;updateSubscription(details.id, { monthlyCost: price, status: &#39;active || &lt;br/&gt;paused&#39;, billingType: &#39;recurring || promo_only || bundle_only&#39;, &lt;br/&gt;accessUntil });&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-396">
+        <mxCell id="GUloyDDhb5r3CM2e5-GQ-60" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;const updatedSubscription = await &lt;br&gt;updateSubscription(details.id, { monthlyCost: price, status: &#39;active&#39;, billingType: &#39;recurring&#39;, &lt;br&gt;accessUntil: null });&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-396">
           <mxGeometry x="817" width="387" height="103" as="geometry">
             <mxRectangle width="387" height="103" as="alternateBounds" />
           </mxGeometry>
@@ -1968,12 +1968,12 @@
             <mxRectangle width="387" height="102" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUloyDDhb5r3CM2e5-GQ-61" value="const updatedDeal = await updateSubscriptionDeal(details.deal_id, { purchaseType: &#39;promo || bundle&#39;, price, duration, expiration, status: &#39;active || expired&#39; });" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-399">
+        <mxCell id="GUloyDDhb5r3CM2e5-GQ-61" value="const updatedDeal = await updateSubscriptionDeal(details.deal_id, { purchaseType: &#39;bundle&#39;, price, duration, expiration, status: &#39;active&#39; });" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-399">
           <mxGeometry x="817" width="387" height="102" as="geometry">
             <mxRectangle width="387" height="102" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUloyDDhb5r3CM2e5-GQ-103" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;const updatedSubscription = await &lt;br/&gt;updateSubscription(details.id, { monthlyCost: price, status: &#39;active || &lt;br/&gt;paused&#39;, billingType: &#39;recurring || promo_only || bundle_only&#39;, &lt;br/&gt;accessUntil });&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-399">
+        <mxCell id="GUloyDDhb5r3CM2e5-GQ-103" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;const updatedSubscription = await &lt;br&gt;updateSubscription(details.id, { monthlyCost: null, status: &#39;active&#39;, billingType: &#39;promo_only&#39;, &lt;br&gt;accessUntil });&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-399">
           <mxGeometry x="1204" width="387" height="102" as="geometry">
             <mxRectangle width="387" height="102" as="alternateBounds" />
           </mxGeometry>
@@ -1996,12 +1996,12 @@
             <mxRectangle width="387" height="103" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUloyDDhb5r3CM2e5-GQ-62" value="const updatedDeal = await updateSubscriptionDeal(details.deal_id, { purchaseType: &#39;promo || bundle&#39;, price, duration, expiration, status: &#39;active || expired&#39; });" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-402">
+        <mxCell id="GUloyDDhb5r3CM2e5-GQ-62" value="const updatedDeal = await updateSubscriptionDeal(details.deal_id, { price, duration, expiration, status: &#39;active&#39; });" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-402">
           <mxGeometry x="817" width="387" height="103" as="geometry">
             <mxRectangle width="387" height="103" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUloyDDhb5r3CM2e5-GQ-104" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;const updatedSubscription = await &lt;br/&gt;updateSubscription(details.id, { monthlyCost: price, status: &#39;active || &lt;br/&gt;paused&#39;, billingType: &#39;recurring || promo_only || bundle_only&#39;, &lt;br/&gt;accessUntil });&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-402">
+        <mxCell id="GUloyDDhb5r3CM2e5-GQ-104" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;const updatedSubscription = await &lt;br&gt;updateSubscription(details.id, { status: &#39;active&#39;, accessUntil });&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-402">
           <mxGeometry x="1204" width="387" height="103" as="geometry">
             <mxRectangle width="387" height="103" as="alternateBounds" />
           </mxGeometry>
@@ -2024,7 +2024,7 @@
             <mxRectangle width="387" height="113" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUloyDDhb5r3CM2e5-GQ-63" value="const subscription = await insertSubscription({ subscriberId: decoded.id, subscribedId, monthlyCost: price, status: &#39;active&#39;, relationshipType: &#39;fan_to_creator&#39;, renewalDate, accessUntil || null, billingType: &#39;recurring || promo_only || bundle_only&#39; });&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-405">
+        <mxCell id="GUloyDDhb5r3CM2e5-GQ-63" value="const subscription = await insertSubscription({ subscriberId: decoded.id, subscribedId, monthlyCost: price, status: &#39;active&#39;, relationshipType, renewalDate, accessUntil: null, billingType: &#39;recurring&#39; });&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-405">
           <mxGeometry x="817" width="387" height="113" as="geometry">
             <mxRectangle width="387" height="113" as="alternateBounds" />
           </mxGeometry>
@@ -2052,12 +2052,12 @@
             <mxRectangle width="387" height="111" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUloyDDhb5r3CM2e5-GQ-64" value="const subscription = await insertSubscription({ subscriberId: decoded.id, subscribedId, monthlyCost: price, status: &#39;active&#39;, relationshipType: &#39;fan_to_creator&#39;, renewalDate, accessUntil || null, billingType: &#39;recurring || promo_only || bundle_only&#39; });" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-408">
+        <mxCell id="GUloyDDhb5r3CM2e5-GQ-64" value="const subscription = await insertSubscription({ subscriberId: decoded.id, subscribedId, monthlyCost: null, status: &#39;active&#39;, relationshipType, renewalDate: null, accessUntil, billingType: &#39;promo_only&#39; });" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-408">
           <mxGeometry x="817" width="387" height="111" as="geometry">
             <mxRectangle width="387" height="111" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUloyDDhb5r3CM2e5-GQ-106" value="const deal = await insertSubscriptionDeal({ subscriptionId: details.id || subscription.id, purchaseType: &#39;promo || bundle&#39;, price, duration, expiration });" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-408">
+        <mxCell id="GUloyDDhb5r3CM2e5-GQ-106" value="const deal = await insertSubscriptionDeal({ subscriptionId: subscription.id, purchaseType: &#39;promo&#39;, price, duration, expiration });" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-408">
           <mxGeometry x="1204" width="387" height="111" as="geometry">
             <mxRectangle width="387" height="111" as="alternateBounds" />
           </mxGeometry>
@@ -2080,12 +2080,12 @@
             <mxRectangle width="387" height="103" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUloyDDhb5r3CM2e5-GQ-65" value="const subscription = await insertSubscription({ subscriberId: decoded.id, subscribedId, monthlyCost: price, status: &#39;active&#39;, relationshipType: &#39;fan_to_creator&#39;, renewalDate, accessUntil || null, billingType: &#39;recurring || promo_only || bundle_only&#39; });" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-411">
+        <mxCell id="GUloyDDhb5r3CM2e5-GQ-65" value="const subscription = await insertSubscription({ subscriberId: decoded.id, subscribedId, monthlyCost: null, status: &#39;active&#39;, relationshipType, renewalDate; null, accessUntil, billingType: &#39;bundle_only&#39; });" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-411">
           <mxGeometry x="817" width="387" height="103" as="geometry">
             <mxRectangle width="387" height="103" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUloyDDhb5r3CM2e5-GQ-107" value="const deal = await insertSubscriptionDeal({ subscriptionId: details.id || subscription.id, purchaseType: &#39;promo || bundle&#39;, price, duration, expiration });" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-411">
+        <mxCell id="GUloyDDhb5r3CM2e5-GQ-107" value="const deal = await insertSubscriptionDeal({ subscriptionId: subscription.id, purchaseType: &#39;bundle&#39;, price, duration, expiration });" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="aBKo4n8o0QYo_J2yHXvo-411">
           <mxGeometry x="1204" width="387" height="103" as="geometry">
             <mxRectangle width="387" height="103" as="alternateBounds" />
           </mxGeometry>
