@@ -1,9 +1,192 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.9">
   <diagram name="Page-1" id="ofUH8dCXPtj3aY5mHOye">
-    <mxGraphModel>
+    <mxGraphModel dx="2033" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-60" value="&#xa;  &#xa;    &#xa;      &#xa;        &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;      &#xa;    &#xa;  &#xa;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="30" height="4360" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-61" value="&#xa;  &#xa;    &#xa;      &#xa;        &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;        &#xa;          &#xa;        &#xa;      &#xa;    &#xa;  &#xa;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="30" height="4360" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-65" value="Core Features Completion" style="swimlane;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="-140" width="420" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-66" value="Finish Chat Features" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-65">
+          <mxGeometry x="40" y="40" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-67" value="Build Routes &amp; Controllers for Collections Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-65">
+          <mxGeometry x="40" y="80" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-68" value="Implement Add-to-Collection (Profile + Chat)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-65">
+          <mxGeometry x="40" y="120" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-69" value="Build Notifications Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-65">
+          <mxGeometry x="40" y="160" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-70" value="Build Routes &amp; Controllers for For You Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-65">
+          <mxGeometry x="40" y="200" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-71" value="Generate Extensive Test Users" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-65">
+          <mxGeometry x="40" y="240" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-72" value="Design For You Page (Desktop View)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-65">
+          <mxGeometry x="40" y="280" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-73" value="Build Routes &amp; Controllers for Following Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-65">
+          <mxGeometry x="40" y="320" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-74" value="Design Following Page (Desktop View)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-65">
+          <mxGeometry x="40" y="360" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-75" value="Build Routes &amp; Controllers for Explore Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-65">
+          <mxGeometry x="40" y="400" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-76" value="Design Explore Page (Desktop View)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-65">
+          <mxGeometry x="40" y="440" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-77" value="Finish Desktop Views for All Components Built So Far" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-65">
+          <mxGeometry x="40" y="480" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-78" value="Help &amp; Support Page (Desktop)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-65">
+          <mxGeometry x="40" y="520" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-79" value="Implement Personalization Settings in Settings Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-65">
+          <mxGeometry x="40" y="560" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-80" value="Integrate Personalization Settings to Components" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-65">
+          <mxGeometry x="40" y="600" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-123" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="0IXMxDfGrSszYVMnaxAI-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="40" as="sourcePoint" />
+            <mxPoint x="20" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-81" value="Infrastructure &amp; Security" style="swimlane;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="440" y="20" width="400" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-82" value="Local Preliminary Testing &amp; Bug Fixing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-81">
+          <mxGeometry x="20" y="40" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-83" value="Review All Routes for Security Best Practices" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-81">
+          <mxGeometry x="20" y="80" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-84" value="Set Rate Limits (API + Chat)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-81">
+          <mxGeometry x="20" y="120" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-86" value="Set Up Logging &amp; Monitoring System" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-81">
+          <mxGeometry x="20" y="160" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-87" value="Add Performance Benchmarking (e.g. Load Testing)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-81">
+          <mxGeometry x="20" y="200" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-88" value="Define Data Backup Strategy (PostgreSQL + Media)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-81">
+          <mxGeometry x="20" y="240" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-89" value="Containerization Plan (e.g. Docker)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-81">
+          <mxGeometry x="20" y="280" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-90" value="Choose and Prepare Deployment Infrastructure (e.g. AWS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-81">
+          <mxGeometry x="20" y="320" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-91" value="CI/CD Setup (e.g. GitHub Actions, GitLab CI)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-81">
+          <mxGeometry x="20" y="360" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-92" value="Prepare Analytics Integration (e.g. Plausible, GA)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-81">
+          <mxGeometry x="20" y="400" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-93" value="Prototype Ready Milestone" style="swimlane;fillColor=#ffeeba;" vertex="1" parent="1">
+          <mxGeometry x="860" y="20" width="400" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-94" value="Confirm Feature Completion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-93">
+          <mxGeometry x="20" y="40" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-95" value="Run Pre-Prototype Internal Test" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-93">
+          <mxGeometry x="20" y="80" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-96" value="Payments &amp; Identity" style="swimlane;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="20" width="400" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-97" value="Integrate CCBill (Payment Processor)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-96">
+          <mxGeometry x="20" y="40" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-98" value="Integrate Ondato (ID Verification)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-96">
+          <mxGeometry x="20" y="80" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-99" value="Build Payment Cards Page (Desktop Only)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-96">
+          <mxGeometry x="20" y="120" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-100" value="Testing &amp; QA" style="swimlane;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="20" y="720" width="400" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-101" value="Testing Round 1 (Internal QA Team)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-100">
+          <mxGeometry x="20" y="40" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-102" value="Testing Round 2 (Real Users / Beta Testers)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-100">
+          <mxGeometry x="20" y="80" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-103" value="Accessibility Testing (WCAG a11y)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-100">
+          <mxGeometry x="20" y="120" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-104" value="Compliance &amp; Legal" style="swimlane;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="440" y="720" width="400" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-105" value="Write &amp; Publish Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-104">
+          <mxGeometry x="20" y="40" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-106" value="Write &amp; Publish Terms of Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-104">
+          <mxGeometry x="20" y="80" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-107" value="Review GDPR / CCPA Compliance (if EU/US)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-104">
+          <mxGeometry x="20" y="120" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-108" value="Launch Preparation" style="swimlane;fillColor=#ffeeba;" vertex="1" parent="1">
+          <mxGeometry x="860" y="720" width="400" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-109" value="Prepare Marketing &amp; Launch Plan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-108">
+          <mxGeometry x="20" y="40" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-110" value="Secure or Pitch to Financier / Investor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-108">
+          <mxGeometry x="20" y="80" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-111" value="Set Up Bug Reporting / Feedback Tool (e.g. Typeform, Sentry)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-108">
+          <mxGeometry x="20" y="120" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-112" value="Launch" style="swimlane;fillColor=#ffeeba;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="720" width="400" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-113" value="Deploy to Production Servers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-112">
+          <mxGeometry x="20" y="40" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-114" value="Perform Smoke Test in Production" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-112">
+          <mxGeometry x="20" y="80" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-115" value="Soft Launch (Private Beta, Small Audience)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-112">
+          <mxGeometry x="20" y="120" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-116" value="Full Public Launch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-112">
+          <mxGeometry x="20" y="160" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-117" value="Post-Launch Maintenance" style="swimlane;fillColor=#ffeeba;" vertex="1" parent="1">
+          <mxGeometry x="20" y="980" width="400" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-118" value="Live Monitoring &amp; Debugging" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-117">
+          <mxGeometry x="20" y="40" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-119" value="Customer Support Operations" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-117">
+          <mxGeometry x="20" y="80" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-120" value="Weekly or Biweekly Bug Fix Releases" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-117">
+          <mxGeometry x="20" y="120" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-121" value="Roadmap Planning for New Features" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-117">
+          <mxGeometry x="20" y="160" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0IXMxDfGrSszYVMnaxAI-122" value="Live Streaming Feature Planning &amp; Prototyping" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IXMxDfGrSszYVMnaxAI-117">
+          <mxGeometry x="20" y="200" width="360" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
